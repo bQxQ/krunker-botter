@@ -1,5 +1,5 @@
 
-⭐ Star the repo to help us reach 5 stars for the release! ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bQxQ.Krunker-botter)
+⭐ Star the repo to help us reach 5 stars for the release!
 
 ## For support or inquiries, contact `@cleanest` on Discord
 
