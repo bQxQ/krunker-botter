@@ -1,4 +1,4 @@
-
+The release will be today since I have to do a couple of tests.
 
 ## Contact
 
