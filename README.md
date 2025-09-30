@@ -32,7 +32,7 @@ npm start
 
 ## Proxy Setup
 
-Create `proxy.txt` in root directory:
+Add ur proxies in `proxy.txt`:
 ```
 username:password@ip:port
 ip:port
