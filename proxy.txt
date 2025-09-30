@@ -1,1 +1,1 @@
-# add ur proxies here format: ip:port or username:password@ip:port , resdintal proxies are recommended.
+# add ur proxies here format: ip:port or username:password@ip:port , residential proxies are recommended.
