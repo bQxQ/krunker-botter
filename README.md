@@ -38,5 +38,7 @@ username:password@ip:port
 ip:port
 http://username:password@ip:port
 ```
+# ⚠️ Notice ⚠️
+If the bot isn't working well (frequent disconnects, failing to join, or weird behavior), it most likely means your proxies are trash
 
 <img width="1490" height="546" alt="image" src="https://github.com/user-attachments/assets/f43b523b-ab26-4c9b-b503-62a66f9b7277" />
