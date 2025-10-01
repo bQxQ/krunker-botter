@@ -1,6 +1,6 @@
 # Krunker Bot
 
-Bot spawner joins a game for you, allowing you to farm KR/nukes..
+Bot spawner joins a game for you, allowing you to farm KR/nukes.
 
 ## Contact
 
